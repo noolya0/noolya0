@@ -3,7 +3,7 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 <h1 align="center">Приветик <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, меня зовут Виктория</h1>
-<h3 align="center">Страстный любитель решать проблемы и фанат технологий=)
+<h3 align="center">(не)Люблю решать проблемы и плакать=)
 </h3>
 
 
@@ -26,10 +26,10 @@
 5. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
 6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
 
-🛠️ **Skills:**
-- **Languages:** Java, HTML, CSS, JavaScript, C++ (чуть-чуть), SQL, Node JS
+🛠️ **Навыки:**
+- **Языки:** Java, HTML, CSS, JavaScript, C++ (чуть-чуть), SQL, Node JS
 - **Frameworks:** React JS, Express JS
-- **Libraries:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
+- **Библтоьеки:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
 - **Tools:** VS Code, Postman, GitHub
 
 ***
