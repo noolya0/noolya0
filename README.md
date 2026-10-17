@@ -37,6 +37,6 @@
   <i>Давай пообщаемся! Я открыта для всего на свете, спасибо..</i>
 
   <p align="center">
-    <a href="https://telegram.com/noolya0" alt="Telegram"><img src="https://user-images.githubusercontent.com/71613402/148379923-515c9940-4263-409c-8581-f8682c633a59.png"></a>
+    <a href="https://telegram.com/noolya0" alt="Telegram"><img src="https://luispengler.github.io/telegram-desktop-themes/tdesktop-palette/arrow-flash/ss.png"></a>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/noolya0/count.svg) -->
