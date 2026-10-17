@@ -11,7 +11,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VasudevJaiswal) 
  
-<!-- <a href='https://archiveprogram.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/VasudevJaiswal'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<!-- <a href='https://archiveprogram.github.com/noolya0'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/noolya0'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/noolya0'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/noolya0'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <br/> -->
 
 ## 🙋‍♂️ Обо мне
@@ -41,10 +41,6 @@
   <i>Давай пообщаемся! Я открыта для всего на свете, спасибо..</i>
 
   <p align="center">
-    <a href="https://twitter.com/VasudevJaiswal_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
-    <a href="https://in.linkedin.com/in/VasudevJaiswal" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
-    <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
-    <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="My site"><img 
-<br/>
+    <a href="https://telegram.com/noolya0" alt="Telegram"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/telegram-fill.svg"></a>
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/noolya0/count.svg) -->
