@@ -33,14 +33,10 @@
 - **Tools:** VS Code, Postman, GitHub
 
 ***
-   Если вам нравится то, что я делаю, может быть, угостите меня кофе или чаем? 🥺👉👈
-<p align ="center">
-<a href="https://www.buymeacoffee.com/VasudevJaiswal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-     </p>
  <p align="center">
   <i>Давай пообщаемся! Я открыта для всего на свете, спасибо..</i>
 
   <p align="center">
-    <a href="https://telegram.com/noolya0" alt="Telegram"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/telegram-fill.svg"></a>
+    <a href="https://telegram.com/noolya0" alt="Telegram"><img src="https://user-images.githubusercontent.com/71613402/148379923-515c9940-4263-409c-8581-f8682c633a59.png"></a>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/noolya0/count.svg) -->
