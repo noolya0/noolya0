@@ -21,15 +21,12 @@
 УГНТУ
 
 💡 **Проекты:**
-1. **DevVani ChatApp:** Experience Real-Time Communication with our MERN-based Chat Application.
-2. **Sarvam AI:** Discover AI Excellence: Explore 100+ Platforms, Offers, and Solutions in One Seamless React Web App!
-5. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
-6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
+1. **Форум УГНТУ:** Форум УГНТУ(для студентов направления БПО) - форум, в котором студенты одного направления могут общаться, делиться опытом. Рассказывать о своих проблемах, находить друзей и сторонников по интересам. 
 
 🛠️ **Навыки:**
 - **Языки:** Java, HTML, CSS, JavaScript, C++ (чуть-чуть), SQL, Node JS
 - **Frameworks:** React JS, Express JS
-- **Библтоьеки:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
+- **Библиотеки:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
 - **Tools:** VS Code, Postman, GitHub
 
 ***
